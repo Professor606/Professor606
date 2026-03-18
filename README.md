@@ -135,6 +135,6 @@ $ echo "Open to: Collaboration · CTF Teams · Internships"
 
 *"I don't memorize tools. I understand systems."*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=professor606.professor606&color=9fef00)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Professor606&label=VISITORS&labelColor=%23000000&countColor=%239fef00&style=flat)
 
 </div>
